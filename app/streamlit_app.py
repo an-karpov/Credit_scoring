@@ -71,7 +71,7 @@ with st.sidebar:
 
     age = st.slider('What is your age?', min_value=18, max_value=100, step=1, value=age)
 
-    monthly_income = st.number_input('What is your Monthly Income?', min_value=0.0, max_value=30000.0, value=MonthlyIncome)
+    monthly_income = st.number_input('What is your Monthly Income (in $)?', min_value=0.0, max_value=30000.0, value=MonthlyIncome)
 
     depedents = st.number_input('How many dependents do you have?', min_value=0, max_value=20, step=1, value=NumberOfDependents)
 

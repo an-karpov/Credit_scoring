@@ -1,3 +1,8 @@
+<div align="center">
+
+  <a href="">[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://creditscoring-karpov.streamlit.app/)</a>
+
+</div>
 ## Кредитный скоринг
 Датасет содержит информацию о клиентах некоторого банка.  
 
