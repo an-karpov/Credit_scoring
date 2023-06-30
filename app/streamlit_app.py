@@ -10,7 +10,7 @@ st.title('Credit Score Classification')
 st.caption('Made by Andrey Karpov')
 
 st.markdown('''
-            [GitHub repository](https://github.com/an-karpov/Portfolio/tree/main/Credit%20scoring).
+            [GitHub repository](https://github.com/an-karpov/Credit_scoring).
 
             The presented model decides whether to give you a credit or not.
 
